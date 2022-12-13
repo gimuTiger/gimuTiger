@@ -18,6 +18,7 @@ const Yongmin = {
                         developer: "Avangs",
                         commenter: "inven",
                         mentor: "Naver Kin"
+                        BEST supporter : Kim woong gi(https://github.com/wewe4917)
                       },
  challenge: "I am doing the #1day-1commit challenge focused on Git and Unity"
 }
